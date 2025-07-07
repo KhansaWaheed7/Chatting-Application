@@ -11,7 +11,7 @@ A real-time Android chatting app built using **Kotlin** and **Jetpack Compose**,
 - live message updates
 - Light and simple design optimized for Android
 
-## 🛠Tech Stack
+## Tech Stack
 
 - **Language:** Kotlin
 - **UI:** Jetpack Compose
